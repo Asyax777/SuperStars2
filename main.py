@@ -9,7 +9,7 @@ from telegram.ext import (
 )
 
 # — ВСТАВЬТЕ СВОЙ ТОКЕН —
-TOKEN = "7634077445:AAGHnTx3IfyxYh__QbEl-yfIUnsv8-OYaC4"
+TOKEN = "7474408171:AAHLvRf85QEXlDIRKO9P-9gbprQ9h2ykoow"
 
 # Дефолтное меню
 DEFAULT_IMAGE = "https://i.imgur.com/ogru9Sv.jpeg"
